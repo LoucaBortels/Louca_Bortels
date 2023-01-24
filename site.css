@@ -1,0 +1,30 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('arriére plan.jpg');
+        #background-image: url("https://source.unsplash.com/random/1920x1080/?texture");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+#container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+}
+
+#centre {
+    display: block;
+    height: 10vh;
+}
+
+#visage {
+    position: relative;
+    top: 20vh;
+}

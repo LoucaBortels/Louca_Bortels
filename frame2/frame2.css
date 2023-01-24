@@ -1,0 +1,11 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 40%;
+    margin: 0;
+    padding: 0;
+}
+
+#next {
+    height: 100vh;
+}
